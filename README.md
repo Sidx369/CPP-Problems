@@ -1,2 +1,2 @@
-# DSA-Problems-CPP
-DSA Problems in C++
+# CPP-Problems
+Problems in C++
